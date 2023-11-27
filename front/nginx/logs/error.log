@@ -1,0 +1,5 @@
+2023/11/02 12:06:29 [emerg] 1676#5904: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2023/11/02 12:06:55 [emerg] 15420#13684: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2023/11/02 12:07:59 [emerg] 19032#3996: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2023/11/02 12:09:52 [emerg] 4008#12020: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2023/11/02 12:12:56 [emerg] 14260#3736: "server" directive is not allowed here in C:\Users\JUN-D\Desktop\HELF-master\front\nginx/conf/nginx.conf:3
