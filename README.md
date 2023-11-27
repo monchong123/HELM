@@ -37,7 +37,7 @@ app.config["SQLALCHEMY_DATABASE_URI"] = "mysql+pymysql://root:"비밀번호"@loc
 <<주의사항>><br/>
 1. cmd나 터미널에 명령어를 입력할 때는 파일 주소를 정확히 할 것.<br/>
 ex)<br/>
-예를 들어 C:\Users\soldesk\Downloads\SQLD에 있는 파일을 실행시키려 할때 주고가 C:\Users\soldesk\Downloads 이 상태면 실행오류가 납니다.<br/>
+예를 들어 C:\Users\soldesk\Downloads\SQLD에 있는 파일을 실행시키려 할때 주소가 C:\Users\soldesk\Downloads 이 상태면 실행오류가 납니다.<br/>
 그럴땐 cd "C:\Users\soldesk\Downloads\SQLD"를 입력해서 경로를 정확히 해줘야 합니다.<br/>
 
 2. 서버가 안열리면 비주얼 스튜디오를 먼저 열어서 root:비밀번호를 먼저 수정해주고, front 먼저 실행해보세요.<br/>
