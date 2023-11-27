@@ -29,7 +29,7 @@ https://velog.io/@dongzooo/My-sql-workbench-%EC%97%90%EB%9F%AC%ED%95%B4%EA%B2%B0
  python wep.py 입력(백엔드 실행),<br/>
 
 비주얼 스튜디오로 폴더 열기, 백엔드 파일에 있는 web.py파일을 열면<br/>
-app.config["SQLALCHEMY_DATABASE_URI"] = "mysql+pymysql://root:159357jim@localhost:3306/testdb"<br/>
+app.config["SQLALCHEMY_DATABASE_URI"] = "mysql+pymysql://root:"비밀번호"@localhost:3306/testdb"<br/>
 라는 코드가 보이는데, root:본인비밀번호@localhost:3306(=연결할 포트 번호:3306)/testdb(=연결할 데이터베이스) 라는 뜻이니 비밀번호 부분만 본인껄로 변경하면 됩니다.<br/>
 변경하고 나면 Ctrl+Shift+` 를 눌러서 터미널 열고 코드에 비밀번호 변경(본인 mysql 비번으로 변경)후, npm start입력(프론트 실행)<br/>
 
